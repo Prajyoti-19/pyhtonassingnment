@@ -1,23 +1,23 @@
-# age = int(input('Enter Age: '))
+age = int(input('Enter Age: '))
 
-# if age>18:
-#     print('yoy are above 18 you are allowed')
-# else:
-#     print('you are not allowed')
+if age>18:
+    print('yoy are above 18 you are allowed')
+else:
+    print('you are not allowed')
     
 
-# # If elif, else condition
-# percentage = int(input('Enter Percentage: '))
-# if percentage>80:
-#     print('A+')
-# elif percentage>60 and percentage<80:
-#     print('A')
-# elif percentage>50 and percentage<60:
-#     print('B+')
-# elif percentage>40 and percentage<50:
-#     print('B')
-# else:
-#     print('Fail')
+# If elif, else condition
+percentage = int(input('Enter Percentage: '))
+if percentage>80:
+    print('A+')
+elif percentage>60 and percentage<80:
+    print('A')
+elif percentage>50 and percentage<60:
+    print('B+')
+elif percentage>40 and percentage<50:
+    print('B')
+else:
+    print('Fail')
 
 
 # nested loop
