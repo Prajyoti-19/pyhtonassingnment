@@ -8,7 +8,7 @@ from sklearn.preprocessing import LabelEncoder
 
 data = {
 'Logical_Reasoning': [1, 3, 5, 1, 3, 5, 1, 3, 5],
-'Frontend': [1, 1, 1, 0, 0, 1, 0, 1, 1],
+'Frontend': [1, 1, 1, 0, 0, 0, 0, 0, 0],
 'Backend': [0, 0, 0, 1, 1, 1, 1, 1, 1],
 'QA_Testing': [0, 0, 0, 0, 1, 1, 0, 0, 1],
 'Maths_Statistics': [1, 3, 5, 1, 3, 4, 1, 3, 5],
